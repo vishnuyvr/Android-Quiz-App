@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">quizapp</string>
+    <string name = "web_client_id">740864366276-pshpu074sn9diak5fha4pb7eo5i9m9k4.apps.googleusercontent.com</string>
+    <string-array name="quiz_collection_names">
+        <item>quiz</item>
+        <item>quiz1</item>
+        <item>quiz2</item>
+        <item>quiz3</item>
+        <item>quiz4</item>
+        <item>quiz5</item>
+        <item>quiz6</item>
+        <item>quiz7</item>
+    </string-array>
+</resources>
